@@ -1,0 +1,4 @@
+module CRocksDB {
+  header "RocksDBBridge.h"
+  export *
+}
